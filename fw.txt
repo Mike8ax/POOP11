@@ -1,0 +1,12 @@
+esto es una impresion de texto en el archivo
+esto es la segunda linea
+Linea Escrita por el for 0
+Linea Escrita por el for 1
+Linea Escrita por el for 2
+Linea Escrita por el for 3
+Linea Escrita por el for 4
+Linea Escrita por el for 5
+Linea Escrita por el for 6
+Linea Escrita por el for 7
+Linea Escrita por el for 8
+Linea Escrita por el for 9
